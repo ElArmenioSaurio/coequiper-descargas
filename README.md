@@ -9,6 +9,14 @@ Después de instalarla una vez, la app avisa sola cuando hay una versión nueva:
 
 ---
 
+## Antes de instalar: Google Drive (una sola vez)
+Los programas del equipo viven en una carpeta compartida de Drive, **Coequiper Beta**. Para que tu app la encuentre:
+1. Instalá **Google Drive para escritorio** ([drive.google.com/download](https://www.google.com/drive/download/)) y entrá con tu cuenta.
+2. En [drive.google.com](https://drive.google.com) › **Compartidos conmigo**, buscá **Coequiper Beta** (te la tiene que haber compartido Tomás).
+3. Clic derecho › **Organizar › Agregar acceso directo** › **Mi unidad**.
+
+Hacelo **antes** de abrir Coequiper por primera vez. Si la abrís antes, se crea una "Coequiper Beta" vacía solo tuya: borrala de tu Drive, hacé el paso 3 y volvé a abrir la app.
+
 ## Mac (chip M o Intel)
 
 1. Bajá [**Coequiper-Mac.dmg**](https://github.com/ElArmenioSaurio/coequiper-descargas/raw/main/Coequiper-Mac.dmg).
@@ -30,5 +38,7 @@ Después de instalarla una vez, la app avisa sola cuando hay una versión nueva:
 
 ## La primera vez que la abrís
 - Te pregunta tu nombre: sirve para que el equipo sepa quién cambió cada cosa.
-- Los programas se guardan en **Google Drive › Coequiper Beta** (hace falta tener Google Drive para escritorio con la cuenta del equipo).
+- Te muestra un recorrido de un minuto por la app (se vuelve a ver con el botón **?**).
+- Los programas se guardan en **Google Drive › Coequiper Beta** (ver arriba).
+- La primera vez que bajás un video, la app se prepara sola el descargador (tarda un par de minutos, una sola vez).
 - En la compu quedan solo los archivos del programa que estás usando. Con **Terminar programa** se borran (en Drive queda todo); si no, se borran solos a los 3 días.
