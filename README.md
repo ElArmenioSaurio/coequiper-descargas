@@ -1,13 +1,17 @@
 # Coequiper · descargas
 
-Acá están los instaladores de Coequiper. **Descargá siempre de [la última versión](https://github.com/ElArmenioSaurio/coequiper-descargas/releases/latest).**
+Acá están los instaladores de Coequiper (siempre la última versión):
+
+- **Mac** (chip M o Intel): [**Coequiper-Mac.dmg**](https://github.com/ElArmenioSaurio/coequiper-descargas/raw/main/Coequiper-Mac.dmg)
+- **Windows**: [**Coequiper-Windows.exe**](https://github.com/ElArmenioSaurio/coequiper-descargas/raw/main/Coequiper-Windows.exe)
+
 Después de instalarla una vez, la app avisa sola cuando hay una versión nueva: tocás **Actualizar** y listo.
 
 ---
 
 ## Mac (chip M o Intel)
 
-1. Entrá a [la última versión](https://github.com/ElArmenioSaurio/coequiper-descargas/releases/latest) y bajá el archivo que termina en **`universal.dmg`**.
+1. Bajá [**Coequiper-Mac.dmg**](https://github.com/ElArmenioSaurio/coequiper-descargas/raw/main/Coequiper-Mac.dmg).
 2. Abrilo y arrastrá **Coequiper** a la carpeta **Aplicaciones**.
 3. Abrí Coequiper desde Aplicaciones. La primera vez la Mac avisa que no puede verificar al desarrollador (es normal: la app todavía no está firmada por Apple). Tocá **Listo**.
 4. Andá a **Configuración del Sistema › Privacidad y seguridad**, bajá hasta el final y tocá **Abrir igualmente** junto a "Coequiper". Confirmá con tu contraseña.
@@ -18,7 +22,7 @@ Después de instalarla una vez, la app avisa sola cuando hay una versión nueva:
 
 ## Windows
 
-1. Entrá a [la última versión](https://github.com/ElArmenioSaurio/coequiper-descargas/releases/latest) y bajá el archivo que termina en **`x64-setup.exe`**.
+1. Bajá [**Coequiper-Windows.exe**](https://github.com/ElArmenioSaurio/coequiper-descargas/raw/main/Coequiper-Windows.exe).
 2. Abrilo. Si aparece **"Windows protegió su PC"**, tocá **Más información** y después **Ejecutar de todos modos** (pasa porque la app todavía no está firmada).
 3. Seguí el instalador (Siguiente, Siguiente). Queda en el menú Inicio como **Coequiper**.
 
