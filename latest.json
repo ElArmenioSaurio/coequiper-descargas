@@ -1,19 +1,15 @@
 {
-  "version": "6.12.1",
-  "notes": "Coequiper 6.12.1",
-  "pub_date": "2026-11-09T08:21:52Z",
+  "version": "6.13.0",
+  "notes": "Coequiper 6.13.0",
+  "pub_date": "2026-11-09T14:14:28Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNFpRamdzeEVXNzdsR29Na1kwU3ZCSmxGdGZiVjBCUmxOMjhXNEFsbzNqaFdQYnZsSDVtSUpidzlTZ3JaNmI0ZDlESVd2c0ovRWNsSlEzUlhNZkRLNGNVNGZITXRaSkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjEyNTA5CWZpbGU6Q29lcXVpcGVyLmFwcC50YXIuZ3oJdmVyc2lvbjo2LjEyLjEKVFp3U1lMZS9JTGJVQ0d4MlhxUFFTSTVlditGTTY2QTVicWE1MElkdmxXUnRHdVdOdXJBMFVlUXRITG1hMnNPRkJqcXhtaFBSNDBXbHpHNDE4ajk5QlE9PQo=",
-      "url": "https://raw.githubusercontent.com/ElArmenioSaurio/coequiper-descargas/7708ec7ea06fd3c976575403a6dc7856d52fc4a7/actualizacion/Coequiper-Mac.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNFpRamdzeEVXNzlrNmNKOEV6enIxaHhYdGhTbFJlQkR3aXdpNlNuTUpVaTUrNUNVcUJwc0tiYndUZFBjazVoS2xLNVZ1L1RHM05PU28zeTg5cUU1NzNpYXN3WER0U1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjMzNjYzCWZpbGU6Q29lcXVpcGVyLmFwcC50YXIuZ3oJdmVyc2lvbjo2LjEzLjAKTDQxeEIzZVJyOStDMXpUUmorRWxKcG90Y21pbkNSclNjYlcxTUdaV3drczF3Q3R5SXVNSWlYV3RiOGw0dXJuV3JqcWd0NkwvdVJSLzVIWEhPUkV1QWc9PQo=",
+      "url": "https://raw.githubusercontent.com/ElArmenioSaurio/coequiper-descargas/8add935317966a13af8460b4a34d5c368f810cbe/actualizacion/Coequiper-Mac.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNFpRamdzeEVXNzdsR29Na1kwU3ZCSmxGdGZiVjBCUmxOMjhXNEFsbzNqaFdQYnZsSDVtSUpidzlTZ3JaNmI0ZDlESVd2c0ovRWNsSlEzUlhNZkRLNGNVNGZITXRaSkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjEyNTA5CWZpbGU6Q29lcXVpcGVyLmFwcC50YXIuZ3oJdmVyc2lvbjo2LjEyLjEKVFp3U1lMZS9JTGJVQ0d4MlhxUFFTSTVlditGTTY2QTVicWE1MElkdmxXUnRHdVdOdXJBMFVlUXRITG1hMnNPRkJqcXhtaFBSNDBXbHpHNDE4ajk5QlE9PQo=",
-      "url": "https://raw.githubusercontent.com/ElArmenioSaurio/coequiper-descargas/7708ec7ea06fd3c976575403a6dc7856d52fc4a7/actualizacion/Coequiper-Mac.app.tar.gz"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNFpRamdzeEVXNzB4Z0RHc3d2TnR1UlJzcDhGaWdtZWtCZzkrUUlsVzRkUHNXbnRvMjVJRDZoUUM0ZCtqelJJdTNZeDMzTXRIYlA3ODFScUxrVXZLT2Roa2dJbDBLMVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjMyNjMyCWZpbGU6Q29lcXVpcGVyXzYuMTIuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246Ni4xMi4xClF6VHM0SjEzaktpODF3WjE1S2FmZlhTUFNLMmhKdWxFckszMVhpNkxITzBnQjJKWHYwZnYvZUp4WGVQenkrNzhMcnJHYkpOWHpiSFBISmtIYVlRcEJnPT0K",
-      "url": "https://raw.githubusercontent.com/ElArmenioSaurio/coequiper-descargas/5702d00b0226d6480b356839bff0255571b977e2/Coequiper-Windows.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNFpRamdzeEVXNzlrNmNKOEV6enIxaHhYdGhTbFJlQkR3aXdpNlNuTUpVaTUrNUNVcUJwc0tiYndUZFBjazVoS2xLNVZ1L1RHM05PU28zeTg5cUU1NzNpYXN3WER0U1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjMzNjYzCWZpbGU6Q29lcXVpcGVyLmFwcC50YXIuZ3oJdmVyc2lvbjo2LjEzLjAKTDQxeEIzZVJyOStDMXpUUmorRWxKcG90Y21pbkNSclNjYlcxTUdaV3drczF3Q3R5SXVNSWlYV3RiOGw0dXJuV3JqcWd0NkwvdVJSLzVIWEhPUkV1QWc9PQo=",
+      "url": "https://raw.githubusercontent.com/ElArmenioSaurio/coequiper-descargas/8add935317966a13af8460b4a34d5c368f810cbe/actualizacion/Coequiper-Mac.app.tar.gz"
     }
   }
 }
