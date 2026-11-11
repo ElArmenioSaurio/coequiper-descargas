@@ -1,15 +1,15 @@
 {
-  "version": "0.4.1",
-  "notes": "Ratio 0.4.1",
-  "pub_date": "2026-11-11T01:41:59Z",
+  "version": "0.4.2",
+  "notes": "Ratio 0.4.2",
+  "pub_date": "2026-11-11T05:21:11Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNFpRamdzeEVXNzlSSjZiRHN0UzRuK215em1QMkdOSFh6clY2YmR2cEMvejVzYllEeDJ0djFpRUF5SXBBc1JsZDRBUUcwaW5QcEhxKzFXVnJabm9YT3VuRkNCTXdOd1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzYxMzE2CWZpbGU6UmF0aW8uYXBwLnRhci5negl2ZXJzaW9uOjAuNC4xClN2TFlxLzl0Sk10NG1Wbk9jd3FyTlU3K0NYakVJeisxeUhnZkRMTjNsM01lRm1wN2t6OGd4dVMyYXBmVVVKdm9lUHZ4ZmhJb2Q4bkNFekRTSVI4WURnPT0K",
-      "url": "https://raw.githubusercontent.com/ElArmenioSaurio/coequiper-descargas/c7f0fc745d49984efa7df5841bc333db13031612/ratio/actualizacion/Ratio-Mac.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNFpRamdzeEVXNytyM0JncVQveWJtUHRCdzZWeGIyNlZPR2QrOFF5TUlVNHY2T0x0a1h3aTdCcjFESW9McnFQbUV6Si90Wk0rdW55ZjFCOURoa1NEZlhMUGdXQm9abmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Mzc0NDY4CWZpbGU6UmF0aW8uYXBwLnRhci5negl2ZXJzaW9uOjAuNC4yCloyNVdXKzF0L2tTRWtQbjErSnJLME1LL2orYmNGSUtQM3piU1d1bkJMYWwzNjF2azF5T1VuOElUa21GbWlpSlhZL1R5bUxwSGE3TEdUNHBHV3VzM0JRPT0K",
+      "url": "https://raw.githubusercontent.com/ElArmenioSaurio/coequiper-descargas/58fefc90f71aff582379f3d324c152aeb3f5518b/ratio/actualizacion/Ratio-Mac.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNFpRamdzeEVXNzlSSjZiRHN0UzRuK215em1QMkdOSFh6clY2YmR2cEMvejVzYllEeDJ0djFpRUF5SXBBc1JsZDRBUUcwaW5QcEhxKzFXVnJabm9YT3VuRkNCTXdOd1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzYxMzE2CWZpbGU6UmF0aW8uYXBwLnRhci5negl2ZXJzaW9uOjAuNC4xClN2TFlxLzl0Sk10NG1Wbk9jd3FyTlU3K0NYakVJeisxeUhnZkRMTjNsM01lRm1wN2t6OGd4dVMyYXBmVVVKdm9lUHZ4ZmhJb2Q4bkNFekRTSVI4WURnPT0K",
-      "url": "https://raw.githubusercontent.com/ElArmenioSaurio/coequiper-descargas/c7f0fc745d49984efa7df5841bc333db13031612/ratio/actualizacion/Ratio-Mac.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNFpRamdzeEVXNytyM0JncVQveWJtUHRCdzZWeGIyNlZPR2QrOFF5TUlVNHY2T0x0a1h3aTdCcjFESW9McnFQbUV6Si90Wk0rdW55ZjFCOURoa1NEZlhMUGdXQm9abmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Mzc0NDY4CWZpbGU6UmF0aW8uYXBwLnRhci5negl2ZXJzaW9uOjAuNC4yCloyNVdXKzF0L2tTRWtQbjErSnJLME1LL2orYmNGSUtQM3piU1d1bkJMYWwzNjF2azF5T1VuOElUa21GbWlpSlhZL1R5bUxwSGE3TEdUNHBHV3VzM0JRPT0K",
+      "url": "https://raw.githubusercontent.com/ElArmenioSaurio/coequiper-descargas/58fefc90f71aff582379f3d324c152aeb3f5518b/ratio/actualizacion/Ratio-Mac.app.tar.gz"
     }
   }
 }
