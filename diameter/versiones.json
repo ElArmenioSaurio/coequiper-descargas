@@ -1,0 +1,274 @@
+[
+  {
+    "version": "2.4.1",
+    "fecha": "2026-11-15T22:23:19Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "2.4.0",
+    "fecha": "2026-11-15T21:35:30Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "2.3.0",
+    "fecha": "2026-11-15T20:34:13Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "2.2.0",
+    "fecha": "2026-11-14T00:08:52Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "2.0.1",
+    "fecha": "2026-11-13T23:15:52Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "2.0.0",
+    "fecha": "2026-11-13T22:10:29Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "1.10.2",
+    "fecha": "2026-11-13T04:32:11Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "1.10.1",
+    "fecha": "2026-11-13T03:33:15Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "1.10.0",
+    "fecha": "2026-11-13T02:02:56Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "1.9.1",
+    "fecha": "2026-11-12T23:58:37Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "1.9.0",
+    "fecha": "2026-11-12T13:13:39Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "1.8.2",
+    "fecha": "2026-11-12T12:43:05Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "1.8.1",
+    "fecha": "2026-11-12T12:00:26Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "1.8.0",
+    "fecha": "2026-11-12T05:42:32Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "1.7.1",
+    "fecha": "2026-11-12T03:14:04Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "1.7.0",
+    "fecha": "2026-11-12T02:06:34Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "1.6.0",
+    "fecha": "2026-11-12T01:02:30Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "1.5.3",
+    "fecha": "2026-11-12T00:16:01Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "1.5.2",
+    "fecha": "2026-11-11T23:33:58Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "1.5.1",
+    "fecha": "2026-11-11T23:03:30Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "1.5.0",
+    "fecha": "2026-11-11T22:50:02Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "1.4.0",
+    "fecha": "2026-11-11T13:18:00Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "1.3.0",
+    "fecha": "2026-11-11T12:45:44Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "1.2.1",
+    "fecha": "2026-11-11T06:04:45Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "1.2.0",
+    "fecha": "2026-11-11T05:26:32Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "1.1.0",
+    "fecha": "2026-11-11T04:28:26Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "1.0.3",
+    "fecha": "2026-11-11T04:15:04Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "1.0.2",
+    "fecha": "2026-11-11T03:55:35Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "1.0.1",
+    "fecha": "2026-11-11T03:30:02Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "1.0.0",
+    "fecha": "2026-11-11T03:01:46Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "0.2.0",
+    "fecha": "2026-11-11T00:11:39Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "0.1.2",
+    "fecha": "2026-11-10T22:38:15Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "0.1.1",
+    "fecha": "2026-11-10T22:04:30Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "0.1.0",
+    "fecha": "2026-11-10T21:20:08Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  }
+]

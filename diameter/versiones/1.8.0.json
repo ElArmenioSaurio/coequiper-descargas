@@ -1,0 +1,15 @@
+{
+  "version": "1.8.0",
+  "notes": "Diameter 1.8.0",
+  "pub_date": "2026-11-12T05:42:32Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNFpRamdzeEVXN3pCQU5PVDllRjVZZVJZK2lBY1hQNUwyY1lmR2VKem1IZzYwWjNjZG11MTBnVVZTeHUzTmdMTEgwQ0ZEZGpLU1JYdkEwNjkrYU9HMTRwN3hvUFc1WmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDYyMTQ2CWZpbGU6RGlhbWV0ZXIuYXBwLnRhci5negl2ZXJzaW9uOjEuOC4wCkpLNkt6R1hPRnBUWDVNRDJEcmdabFY4V3phVGhiOUNQRnlGYldCVTZuZFJYM25aQk5tNTNFZWJZaW9INExxZS9xNmYrYnAvS3hXL1p0emd1ek1TUEN3PT0K",
+      "url": "https://raw.githubusercontent.com/ElArmenioSaurio/coequiper-descargas/9db63bbb9ef7a649eeef608d464698ea1e4a79e5/diameter/actualizacion/Diameter-Mac.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNFpRamdzeEVXN3pCQU5PVDllRjVZZVJZK2lBY1hQNUwyY1lmR2VKem1IZzYwWjNjZG11MTBnVVZTeHUzTmdMTEgwQ0ZEZGpLU1JYdkEwNjkrYU9HMTRwN3hvUFc1WmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDYyMTQ2CWZpbGU6RGlhbWV0ZXIuYXBwLnRhci5negl2ZXJzaW9uOjEuOC4wCkpLNkt6R1hPRnBUWDVNRDJEcmdabFY4V3phVGhiOUNQRnlGYldCVTZuZFJYM25aQk5tNTNFZWJZaW9INExxZS9xNmYrYnAvS3hXL1p0emd1ek1TUEN3PT0K",
+      "url": "https://raw.githubusercontent.com/ElArmenioSaurio/coequiper-descargas/9db63bbb9ef7a649eeef608d464698ea1e4a79e5/diameter/actualizacion/Diameter-Mac.app.tar.gz"
+    }
+  }
+}
