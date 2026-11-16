@@ -1,0 +1,10 @@
+[
+  {
+    "version": "0.1.0",
+    "fecha": "2026-11-16T21:27:13Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  }
+]
