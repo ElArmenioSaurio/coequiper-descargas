@@ -1,0 +1,325 @@
+[
+  {
+    "version": "7.16.1",
+    "fecha": "2026-11-16T04:32:11Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "7.16.0",
+    "fecha": "2026-11-15T20:28:25Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "7.15.0",
+    "fecha": "2026-11-14T00:04:00Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "7.12.7",
+    "fecha": "2026-11-13T23:10:46Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "7.12.6",
+    "fecha": "2026-11-12T12:52:55Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "7.12.5",
+    "fecha": "2026-11-12T00:08:09Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "7.12.4",
+    "fecha": "2026-11-11T22:44:14Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "7.12.3",
+    "fecha": "2026-11-11T13:12:48Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "7.12.2",
+    "fecha": "2026-11-11T04:34:28Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "7.12.1",
+    "fecha": "2026-11-10T23:23:23Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "7.12.0",
+    "fecha": "2026-11-10T21:46:21Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "7.11.0",
+    "fecha": "2026-11-10T21:15:34Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "7.10.1",
+    "fecha": "2026-11-10T21:06:25Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "7.10.0",
+    "fecha": "2026-11-10T20:17:11Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "7.9.0",
+    "fecha": "2026-11-10T19:01:53Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "7.8.2",
+    "fecha": "2026-11-10T13:05:11Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "7.8.1",
+    "fecha": "2026-11-10T05:48:25Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64",
+      "windows-x86_64"
+    ]
+  },
+  {
+    "version": "7.8.0",
+    "fecha": "2026-11-10T04:18:03Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "7.7.0",
+    "fecha": "2026-11-10T04:00:17Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "7.6.1",
+    "fecha": "2026-11-10T03:45:49Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "7.6.0",
+    "fecha": "2026-11-10T02:29:46Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "7.5.0",
+    "fecha": "2026-11-10T01:03:20Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "7.4.0",
+    "fecha": "2026-11-09T23:51:21Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "7.3.0",
+    "fecha": "2026-11-09T22:46:27Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "7.2.2",
+    "fecha": "2026-11-09T22:25:14Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "7.2.1",
+    "fecha": "2026-11-09T22:02:39Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "7.2.0",
+    "fecha": "2026-11-09T21:43:34Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "7.1.1",
+    "fecha": "2026-11-09T20:00:05Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "7.1.0",
+    "fecha": "2026-11-09T19:37:21Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "7.0.0",
+    "fecha": "2026-11-09T18:46:07Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "6.13.2",
+    "fecha": "2026-11-09T16:34:21Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "6.13.1",
+    "fecha": "2026-11-09T15:03:09Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "6.13.0",
+    "fecha": "2026-11-09T14:14:28Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "6.12.1",
+    "fecha": "2026-11-09T08:21:52Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64",
+      "windows-x86_64"
+    ]
+  },
+  {
+    "version": "6.12.0",
+    "fecha": "2026-11-09T07:30:21Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "6.11.1",
+    "fecha": "2026-11-07T18:24:01Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64",
+      "windows-x86_64"
+    ]
+  },
+  {
+    "version": "6.11.0",
+    "fecha": "2026-11-07T17:53:15Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "6.10.0",
+    "fecha": "2026-11-07T16:13:56Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "6.9.0",
+    "fecha": "2026-11-07T14:43:01Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
+    "version": "6.8.0",
+    "fecha": "2026-11-07T13:53:11Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  }
+]
