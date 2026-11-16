@@ -1,5 +1,13 @@
 [
   {
+    "version": "2.5.0",
+    "fecha": "2026-11-16T04:05:55Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
     "version": "2.4.2",
     "fecha": "2026-11-15T23:16:36Z",
     "plataformas": [
