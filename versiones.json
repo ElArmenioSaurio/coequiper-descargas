@@ -1,5 +1,13 @@
 [
   {
+    "version": "7.16.2",
+    "fecha": "2026-11-16T21:22:19Z",
+    "plataformas": [
+      "darwin-aarch64",
+      "darwin-x86_64"
+    ]
+  },
+  {
     "version": "7.16.1",
     "fecha": "2026-11-16T04:32:11Z",
     "plataformas": [
@@ -309,14 +317,6 @@
   {
     "version": "6.9.0",
     "fecha": "2026-11-07T14:43:01Z",
-    "plataformas": [
-      "darwin-aarch64",
-      "darwin-x86_64"
-    ]
-  },
-  {
-    "version": "6.8.0",
-    "fecha": "2026-11-07T13:53:11Z",
     "plataformas": [
       "darwin-aarch64",
       "darwin-x86_64"
