@@ -4,7 +4,8 @@
     "fecha": "2026-11-18T04:24:01Z",
     "plataformas": [
       "darwin-aarch64",
-      "darwin-x86_64"
+      "darwin-x86_64",
+      "windows-x86_64"
     ]
   },
   {
